@@ -32,14 +32,14 @@
     "ssri": "^8.0.1"
   },
   "devDependencies": {
-    "negotiator": "^0.6.1",
-    "nock": "^9.0.9",
-    "readable-stream": "^2.1.5",
-    "require-inject": "^1.4.0",
+    "negotiator": "^0.6.3",
+    "nock": "^13.2.4",
+    "readable-stream": "^3.6.0",
+    "require-inject": "^1.4.4",
     "rimraf": "^3.0.2",
-    "standard": "^16.0.4",
-    "standard-version": "^4.3.0",
-    "tap": "^12.0.1"
+    "standard": "^17.0.0",
+    "standard-version": "^9.3.2",
+    "tap": "^16.2.0"
   },
   "optionalDependencies": {
     "npmlog": "2 || ^3.1.0 || ^4.0.0"
