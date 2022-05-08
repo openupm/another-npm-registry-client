@@ -2,7 +2,7 @@
   "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)",
   "name": "another-npm-registry-client",
   "description": "Client for the npm registry",
-  "version": "8.6.1",
+  "version": "8.7.0",
   "repository": {
     "url": "https://github.com/openupm/another-npm-registry-client.git"
   },
